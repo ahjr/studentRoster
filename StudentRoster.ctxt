@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=java.util.ArrayList\ getRoster()
+comment0.text=\n\ Return\ an\ ArrayList\ of\ all\ students\ in\ roster\n\ \n\ @return\ ArrayList\ of\ all\ students\n\ \n
+comment1.params=studentID\ firstName\ lastName\ email\ age\ grade1\ grade2\ grade3
+comment1.target=void\ add(int,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ int,\ int,\ int)
+comment1.text=\n\ Add\ student\ to\ roster\n\ \n\ @param\ studentID\ Student's\ ID\n\ @param\ firstName\ Student's\ first\ name\n\ @param\ lastName\ Student's\ last\ name\n\ @param\ email\ Student's\ email\ address\n\ @param\ age\ Student's\ age\n\ @param\ grade1\ First\ grade\n\ @param\ grade2\ Second\ grade\n\ @param\ grade3\ Third\ grade\n
+comment2.params=studentID
+comment2.target=void\ remove(int)
+comment2.text=\n\ Remove\ student\ from\ roster\n\ \n\ @param\ studentID\ Student\ id\ of\ student\ to\ remove\n
+comment3.params=
+comment3.target=void\ print_all()
+comment3.text=\n\ Print\ roster\n\ \n
+comment4.params=studentID
+comment4.target=void\ print_average_grade(int)
+comment4.text=\n\ Print\ the\ average\ of\ the\ student's\ grades\n\ \n\ @param\ studentID\ Student\ id\ of\ student\ \n
+comment5.params=
+comment5.target=void\ print_invalid_emails()
+comment5.text=\n\ Print\ invalid\ email\ addresses\ from\ the\ roster\n\ \n
+numComments=6
